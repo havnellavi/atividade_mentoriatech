@@ -8,8 +8,8 @@ Repositório criado para a Primeira Avaliação da disciplina Mentoria Tech sobr
 
 ## 👨‍💻 Aluno(a)
 
-*   **Nome:** ELLEN ISABELLY DA SILVA SANTOS
-*   **Email:** ellen.isabelly@aluno.edu.pi.gov.br
+*   **Nome:** Havilla Havenna Rodrigues Dos Santos
+*   **Email:** havilla.santos@aluno.edu.pi.gov.br
 
 ---
 
@@ -51,7 +51,7 @@ Para compilar e executar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/ellenisabelly-stack/atividade_mentoriatech.git
+    git clone https://github.com/havnellavi/atividade_mentoriatech.git
     cd atividade_mentoriatech
     ```
 
